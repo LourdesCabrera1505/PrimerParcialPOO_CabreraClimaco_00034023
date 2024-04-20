@@ -78,6 +78,10 @@ public class Main {
                             }
                             break;
 
+                      case 4:
+System.out.println("saliendo");
+                        break;
+
                         default:
                             System.out.println("Ingrese una opcion valida");
                             break;
