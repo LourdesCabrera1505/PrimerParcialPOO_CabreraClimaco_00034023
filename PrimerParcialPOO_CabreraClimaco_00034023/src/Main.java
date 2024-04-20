@@ -72,7 +72,9 @@ public class Main {
 
                             for (int i = 0; i <lista_dispositivo.size(); i++) {
 
-                                
+                                Dispositivos emp = lista_dispositivo.get(i);
+
+                          
                             }
                             break;
 
